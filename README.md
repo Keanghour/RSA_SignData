@@ -1,6 +1,6 @@
 # AES RSA SignData
 
-The `RSA_AES_SignData2` class provides utilities for securely managing and processing data using RSA and AES cryptography. It includes methods for key management, data encryption, and digital signatures. Below is a breakdown of its functionalities:
+The `SignData` class provides utilities for securely managing and processing data using RSA and AES cryptography. It includes methods for key management, data encryption, and digital signatures. Below is a breakdown of its functionalities:
 
 ## 1. Public/Private Key Management
 
